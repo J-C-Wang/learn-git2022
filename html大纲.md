@@ -450,8 +450,6 @@
                 * 所有已废弃的标签将不再提及
 
 
-
-
             * em
                 * emphasis
                 * 语义为**强调**
@@ -463,12 +461,6 @@
             * u underline
             * i italic
                 * 多数网站会这个标签来表示图标
-
-
-
-
-
-
 
 
             * u underline
